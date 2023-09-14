@@ -9,3 +9,5 @@ bot.PrefixLoad({
   prefix: "l?",
   local: "commands/prefix"
 })
+
+  //by ThallesKraft
